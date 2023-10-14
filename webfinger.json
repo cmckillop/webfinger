@@ -1,0 +1,9 @@
+{
+  "subject": "acct:conor@cmckillop.dev",
+  "links": [
+    {
+      "rel": "https://openid.net/specs/connect/1.0/issuer",
+      "href": "https://login.microsoftonline.com"
+    }
+  ]
+}
